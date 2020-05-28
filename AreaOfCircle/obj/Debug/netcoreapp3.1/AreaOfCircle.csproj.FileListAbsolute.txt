@@ -1,0 +1,12 @@
+D:\LaunchCode\C#_practice\Ch2 Data Types\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.AssemblyInfoInputs.cache
+D:\LaunchCode\C#_practice\Ch2 Data Types\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.AssemblyInfo.cs
+D:\LaunchCode\C#_practice\Ch2 Data Types\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.csproj.CoreCompileInputs.cache
+D:\LaunchCode\C#_practice\Ch2 Data Types\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.exe
+D:\LaunchCode\C#_practice\Ch2 Data Types\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.deps.json
+D:\LaunchCode\C#_practice\Ch2 Data Types\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.runtimeconfig.json
+D:\LaunchCode\C#_practice\Ch2 Data Types\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.runtimeconfig.dev.json
+D:\LaunchCode\C#_practice\Ch2 Data Types\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.dll
+D:\LaunchCode\C#_practice\Ch2 Data Types\AreaOfCircle\AreaOfCircle\bin\Debug\netcoreapp3.1\AreaOfCircle.pdb
+D:\LaunchCode\C#_practice\Ch2 Data Types\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.dll
+D:\LaunchCode\C#_practice\Ch2 Data Types\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.pdb
+D:\LaunchCode\C#_practice\Ch2 Data Types\AreaOfCircle\AreaOfCircle\obj\Debug\netcoreapp3.1\AreaOfCircle.genruntimeconfig.cache

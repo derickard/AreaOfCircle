@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wqiLpjSlkiIs1W6P8SWwmjvoMjCbKlR+t3VrhOBXHoDCdshm7L9NlZ6pKiQDAXDNfOPOWpfCR110fb44IlgCdQ==",
+  "success": true,
+  "projectFilePath": "D:\\LaunchCode\\C#_practice\\Ch2 Data Types\\AreaOfCircle\\AreaOfCircle\\Studio-AreaOfCircle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\John\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
